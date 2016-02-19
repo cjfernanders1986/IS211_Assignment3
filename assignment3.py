@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""A module for text processing using Regular Expressions"""
+"""Assignment3""
 
 import urllib2
 import re
