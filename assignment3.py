@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Assignment3""
+"""Assignment3"""
 
 import urllib2
 import re
